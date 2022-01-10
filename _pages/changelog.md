@@ -13,7 +13,7 @@ The changelog below is simply an example changelog that serves to exemplify how 
 - Draft template
 
 #### What's New
-- Much far proper exotically precise unaccountable.
+- 
 
 #### Bug Fixes
 - bug fix example
